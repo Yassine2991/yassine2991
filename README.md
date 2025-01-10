@@ -1,14 +1,18 @@
-## Hi there 👋
-**Yassine2991/yassine2991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
+I'm Yassine Aberchah, a passionate Software Engineering Student based in Berlin, Germany, originally from Morocco.
 
-Here are some ideas to get you started:
+🌱 What I'm Learning:
+I'm diving into the world of programming with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🐍 Python
+🎨 HTML, CSS, and JavaScript
+💡 What Drives Me:
+I love designing and building user-friendly websites and creating engaging interfaces. As a beginner in software development, I'm eager to master front-end development and contribute to meaningful projects.
 
+🎯 My Goals:
+
+Become skilled in modern front-end frameworks like React or Vue.
+Build visually appealing and responsive websites.
+Collaborate on exciting open-source or real-world projects.
+🚀 About Me:
+When I'm not coding, I explore new cultures, learn new languages, or play football. 
